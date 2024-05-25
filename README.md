@@ -1,15 +1,13 @@
 ### Hyy, i'm Kashish Patel👋
 
-
-**kashish3019/kashish3019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning shopify 
 - 📫 How to reach me: kashishpatel5253@gmail.com
 
 
 
-## 🌐 Socials:
+## 🌐 So![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/kashish3019/kashish3019/assets/140045234/68dcd84f-4940-40c1-bfb4-4af405a00984)
+cials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashish-patel-031377271/) 
 
 # 💻 Tech Stack:
